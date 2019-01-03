@@ -8,5 +8,6 @@
             "platform.thread-stats-enabled": true,
             "platform.sys-stats-enabled": true
         }
-    }
+    },
+    "macros": ["CONFIG_NFCT_PINS_AS_GPIOS=1"]
 }

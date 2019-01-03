@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "MbedProject9", "MbedProject9.vgdbproj", "{4872FEEF-9F12-4584-8DBF-8E06DC367987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|MTB_UBLOX_NINA_B1 = Debug|MTB_UBLOX_NINA_B1
+		Release|MTB_UBLOX_NINA_B1 = Release|MTB_UBLOX_NINA_B1
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4872FEEF-9F12-4584-8DBF-8E06DC367987}.Debug|MTB_UBLOX_NINA_B1.ActiveCfg = Debug|MTB_UBLOX_NINA_B1
+		{4872FEEF-9F12-4584-8DBF-8E06DC367987}.Debug|MTB_UBLOX_NINA_B1.Build.0 = Debug|MTB_UBLOX_NINA_B1
+		{4872FEEF-9F12-4584-8DBF-8E06DC367987}.Release|MTB_UBLOX_NINA_B1.ActiveCfg = Release|MTB_UBLOX_NINA_B1
+		{4872FEEF-9F12-4584-8DBF-8E06DC367987}.Release|MTB_UBLOX_NINA_B1.Build.0 = Release|MTB_UBLOX_NINA_B1
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6444719-83EE-4103-8B19-A964B9ED8909}
+	EndGlobalSection
+EndGlobal
